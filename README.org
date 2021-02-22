@@ -1,0 +1,18 @@
+#+title: Git Masterclass
+
+The file fizzbuzz.py contains some starter code, working as a group
+flesh out the simple program in groups of 2 or more and split the work
+among the members of the group.
+
+The functions =is_multiple_of_3= =is_multiple_of_5=, and =is_fizz_buzz= need
+to be filled.
+
+** Branches
+Create a branch for each feature i.e. function, fill it then merge
+back into the main branch. Since everyone should be working on
+different bits of the code there should not be any merge conflict.
+
+** Merge Conflict 
+For the final task, everyone in the group should write doc strings for
+the the functions =is_multiple_of_3= and =is_multiple_of_5= then try to
+merge it back into the main
